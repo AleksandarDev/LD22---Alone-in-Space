@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\Earth.png</Source>
+      <Name>Textures\Earth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\Earth.xnb</Output>
+      <Time>2011-12-17T06:26:32.8622575+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\DebugFont.spritefont</Source>
+      <Name>Fonts\DebugFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Fonts\DebugFont.xnb</Output>
+      <Time>2011-12-18T20:09:59.4494412+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\kittendare.png</Source>
+      <Name>Textures\kittendare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\kittendare.xnb</Output>
+      <Time>2011-12-17T06:18:28.5469186+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Smoke.png</Source>
+      <Name>Textures\Smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\Smoke.xnb</Output>
+      <Time>2011-12-17T21:22:56.1262385+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Grass.png</Source>
+      <Name>Textures\Grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\Grass.xnb</Output>
+      <Time>2011-12-17T23:22:06.5744712+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\LaunchStationBase.png</Source>
+      <Name>Textures\LaunchStationBase</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\LaunchStationBase.xnb</Output>
+      <Time>2011-12-18T13:11:07.4551995+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\LaunchStationHand.png</Source>
+      <Name>Textures\LaunchStationHand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\LaunchStationHand.xnb</Output>
+      <Time>2011-12-18T13:11:07.4582005+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\LaunchStationHook.png</Source>
+      <Name>Textures\LaunchStationHook</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\LaunchStationHook.xnb</Output>
+      <Time>2011-12-18T13:11:07.460198+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ShuttleRocket.png</Source>
+      <Name>Textures\ShuttleRocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\ShuttleRocket.xnb</Output>
+      <Time>2011-12-18T13:11:07.4691997+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ShuttleTank.png</Source>
+      <Name>Textures\ShuttleTank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\ShuttleTank.xnb</Output>
+      <Time>2011-12-18T13:11:07.4712002+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\UIButton.png</Source>
+      <Name>Textures\UI\UIButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\UI\UIButton.xnb</Output>
+      <Time>2011-12-18T10:59:10.0170254+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\UINumber.png</Source>
+      <Name>Textures\UI\UINumber</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\UI\UINumber.xnb</Output>
+      <Time>2011-12-18T10:59:10.0350255+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\UIProgressSmall.png</Source>
+      <Name>Textures\UI\UIProgressSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\UI\UIProgressSmall.xnb</Output>
+      <Time>2011-12-18T10:59:10.0390257+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shuttle.png</Source>
+      <Name>Textures\Shuttle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\Shuttle.xnb</Output>
+      <Time>2011-12-18T13:11:07.4631986+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\FireParticle.png</Source>
+      <Name>Textures\FireParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\FireParticle.xnb</Output>
+      <Time>2011-12-18T16:53:24.4251195+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\UINavigation.png</Source>
+      <Name>Textures\UI\UINavigation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\UI\UINavigation.xnb</Output>
+      <Time>2011-12-18T19:29:41.7063743+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PointTexture.bmp</Source>
+      <Name>Textures\PointTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\PointTexture.xnb</Output>
+      <Time>2011-12-18T19:54:35.1465735+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C56C6100-D0CE-436F-BD30-95AD2A4B1D3A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in SpaceContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-10-03T22:32:48.0571966+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,27 @@
+TODO List
+for LUDUM DARE 22
+----------------------------------------------------
+- Make a game :D
+- But first wait for theme
+
+Some random titles:
+- Alone in Space
+- Alone on Earth
+- Only me
+- One men
+- Humans - Alone in Space
+
+Game type:
+- TPS on island? Shooter doesn't make sense... who to 
+  shoot if your alone?
+- Craft shooter & Upgrades
+
+Space-craft simulation? THIS IS THE GAME...
+
+Lunch space-craft to space... Some orbital difficulties... 
+Planet exploring? Search for aliens?
+
+Space City development?
+
+Space station?
+

@@ -1,0 +1,37 @@
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\Earth.xnb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Fonts\DebugFont.xnb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Alone in Space.exe
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Alone in Space.pdb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\SquaredEngine.Common.dll
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\SquaredEngine.Diagnostics.Debug.dll
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\SquaredEngine.Diagnostics.Log.dll
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\SquaredEngine.Graphics.dll
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\SquaredEngine.Input.dll
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\SquaredEngine.Common.pdb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\SquaredEngine.Common.xml
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\SquaredEngine.Diagnostics.Debug.pdb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\SquaredEngine.Diagnostics.Debug.xml
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\SquaredEngine.Diagnostics.Log.pdb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\SquaredEngine.Graphics.pdb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\SquaredEngine.Graphics.xml
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\SquaredEngine.Input.pdb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\SquaredEngine.Input.xml
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\obj\x86\Debug\Alone in Space.csprojResolveAssemblyReference.cache
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\obj\x86\Debug\Alone in Space.exe
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\obj\x86\Debug\Alone in Space.pdb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\kittendare.xnb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\Smoke.xnb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\Grass.xnb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\LaunchStationBase.xnb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\LaunchStationHand.xnb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\LaunchStationHook.xnb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\ShuttleRocket.xnb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\ShuttleTank.xnb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\UI\UIButton.xnb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\UI\UINumber.xnb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\UI\UIProgressSmall.xnb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\Shuttle.xnb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\FireParticle.xnb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\UI\UINavigation.xnb
+C:\Users\aleksandar.toplek\Desktop\LD22\Alone in Space\Alone in Space\bin\x86\Debug\Content\Textures\PointTexture.xnb
