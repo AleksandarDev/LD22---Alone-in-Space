@@ -1,7 +1,8 @@
 # LD22AloneInSpace
 LD22 (2011) 48h competition submission
 
-https://www.youtube.com/watch?v=ssAJSuj1JDs
-https://www.youtube.com/watch?v=UFJ5mptpUGc
+[Video](https://www.youtube.com/watch?v=ssAJSuj1JDs)
 
-http://ludumdare.com/compo/ludum-dare-22/?action=preview&uid=5974
+[Timelapse](https://www.youtube.com/watch?v=UFJ5mptpUGc)
+
+[Entry](http://ludumdare.com/compo/ludum-dare-22/?action=preview&uid=5974)
